@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Work+Sans&display=swap"); 
+
+@import url("container.css");
+@import url("avatar.css");
+@import url("button.css");
+@import url("banner.css");
+@import url("card.css");
+@import url("footer.css");
+
+body{
+	font-family: 'Work Sans', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2 {
+	font-family: 'Libre Baskerville', serif;
+	font-weight: bold;
+}
+a { 
+	text-decoration: none;
+}
+.highlight {
+  color: red;
+  text-transform: uppercase;
+}
+

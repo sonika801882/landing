@@ -1,0 +1,41 @@
+.footer {
+	background-color: #fcfaf8;
+	margin-top: 10px;
+	padding-top: 20px;
+	margin-bottom: 0px;
+	color: black;
+}
+.footer h3 {
+	font-style: italic;
+	font-size: 20px;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: lighter;
+	text-align: center;
+}
+.footer p {
+	text-align: right;
+	margin-right: 3px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+	display: flex;
+	justify-content: center;
+}
+.list-inline li {
+	display: inline;
+	padding: 12px;
+}
+.list-inline i {
+	font-size: 45px;
+	color: #ffd464;
+}
+.list-inline i:hover {
+	font-size: 45px;
+	color: rgb(220, 220, 220);
+}
+
+
+
+
